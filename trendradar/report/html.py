@@ -64,7 +64,7 @@ def render_html_content(
             }
 
             .header {
-                background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+                background: blue;
                 color: white;
                 padding: 32px 24px;
                 text-align: center;
